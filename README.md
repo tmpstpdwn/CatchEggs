@@ -22,9 +22,6 @@ Eggs are falling from the sky!. Can you catch it?.
 
 ## Screenshots
 
-### After the game is launched
-![Gameplay Screenshot](screenshots/start.png)
-
 ### During gameplay
 ![Gameplay Screenshot](screenshots/gameplay.png)
 
