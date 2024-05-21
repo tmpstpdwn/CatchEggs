@@ -1,6 +1,6 @@
 # CatchEggs
 
-![FloopyBirdy Screenshot](logo.png)
+![CatchEggs logo](logo.png)
 
 A simple game in Python using the Pygame library.
 
